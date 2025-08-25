@@ -1,0 +1,1 @@
+In this example, the Observer pattern establishes indirect collaboration between objects of a text editor. Each time the Editor object changes, it notifies its subscribers. EmailNotificationListener and LogOpenListener react to these notifications by executing their primary behaviors.
